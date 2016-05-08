@@ -1,0 +1,28 @@
+name: effortlesscool
+favicon: null
+layout_spectrum: 0.7411032314412296
+typography_spectrum: 0.06434346921741962
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.0928109569940716
+  lightness: 0.2730209899600595
+  saturation: 0.40041464450769126
+  rhythmicContrast: 0.39320174185559154
+purpose: []
